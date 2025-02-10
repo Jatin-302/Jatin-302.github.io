@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ## 🔧 Technologies & Tools
 - **Frontend:** React.js, Redux, Tailwind CSS, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, MongoDB, REST APIs
-- **Other Skills:** Git, GitHub, JWT Authentication, Stripe Payments, AWS Basics
+- **Backend:** Node.js, Express.js, MongoDB atlas,postman
+- **Other Skills:** Git, GitHub, Stripe Payments, AWS Basics,
 
 ## 📫 Connect with Me
 - 📧 Email: Jatinsoni291302@gmail.com
