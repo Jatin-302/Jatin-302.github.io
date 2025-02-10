@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm JATIN SONI 👋
 
-<!--
-**Jatin-302/Jatin-302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. I love building scalable web applications and continuously improving my skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **Electronics & Telecommunication Graduate** from D.J. Sanghvi College of Engineering
+- 💻 **Aspiring Full-Stack Developer** focused on **React.js & Node.js**
+- 🌱 Currently learning **advanced React.js & backend development with Node.js**
+- 📚 Preparing for **technical interviews** & improving my **DSA skills**
+- 🔍 Open to job opportunities in **Full-Stack & Frontend Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Frontend:** React.js, Redux, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, MongoDB, REST APIs
+- **Other Skills:** Git, GitHub, JWT Authentication, Stripe Payments, AWS Basics
+
+## 📫 Connect with Me
+- 📧 Email: Jatinsoni291302@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jatinsoni291302/
+
+Feel free to explore my repositories and connect with me for collaborations! 🚀
